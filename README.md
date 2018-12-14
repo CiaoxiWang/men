@@ -1,6 +1,6 @@
 ##  QIAOXI WANG
 
- [editor on GitHub]
+https://github.com/CiaoxiWang/men/edit/master/README.md
 
 ### Markdown
 
